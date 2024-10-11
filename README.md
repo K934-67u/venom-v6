@@ -70,7 +70,7 @@ This repository contains a Telegram bot designed to perform DDoS attacks. The bo
 
 - `/start` - Welcome message.
 - `/help` - Display help information and available commands.
-- `/bgmi <target> <port> <time>` - Initiate a DDoS attack on the specified target.
+- `/pubg🇩🇯 <target> <port> <time>` - Initiate a DDoS attack on the specified target.
 - `/rules` - Display rules for using the bot.
 - `/plan` - Display available plans and pricing.
 - `/mylogs` - Show recent command logs for the user.
@@ -119,7 +119,7 @@ If you wish to contribute to this project, feel free to submit a pull request or
 
 ## Contact
 
-For any queries or support, contact [venomXcrazy](https://t.me/venomXcrazy) on Telegram. 
+For any queries or support, contact [venomXcrazy](https://t.me/ddos1vip) on Telegram. 
 
 ---
 
